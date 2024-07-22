@@ -5,7 +5,7 @@ st.set_page_config(
 
 )
 
-st.write("# Welcome to Hamburger blog!")
+st.write("# Welcome to alla's blog!")
 
 st.markdown(
         """
